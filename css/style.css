@@ -1,0 +1,99 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: rgb(211, 192, 211);
+    margin: auto;
+    padding: 10px;
+    margin: 10px;
+}
+
+#hdl{
+    background-color: rgb(59, 39, 12);
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin: auto;
+}
+
+.about{
+    background-image: url(../img/pUUN6.jpg);
+    background-size: cover;
+    background-position: center;
+    color: rgb(21, 100, 44);
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid rgb(79, 133, 100);
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+#abus{
+    color: rgb(14, 11, 11);
+    text-align: center;
+    text-shadow: 3px 3px 5px green,
+                 6px 6px 5px blue,
+                 9px 9px 5px orange;
+}
+
+.course{
+    background-color: rgb(79, 147, 179);
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    margin: 10px;
+    border: 5px solid green;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.contact{
+    background-image: url(../img/index.jpg);
+    background-size: 450px; 
+    background-repeat: no-repeat;
+    background-position: right center;
+    /* background-size: cover; */
+    background-color: rgb(14, 52, 70);
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 5px solid rgb(111, 141, 111);
+    border-radius: 10px;
+    padding: 10px;
+    color: rgb(207, 207, 221);
+}
+
+.socialcon{
+    background-color: rgb(14, 52, 70);
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 0px; 
+    border: 5px solid rgb(111, 141, 111);
+    border-radius: 10px;
+    padding: 10px;
+    color: rgb(54, 139, 75);
+    font-size: 30px;
+}
+
+.divlst{
+    background-color: antiquewhite;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    /* border: 5px solid rebeccapurple; */
+    border-radius: 5px;
+    color: blueviolet;
+}
